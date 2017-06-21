@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1498062142 source:f:\cbprojects\helloworld\main.cpp
+	<iostream>
+
+1498063542 source:f:\cbprojects\helloworld\second.cpp
+
